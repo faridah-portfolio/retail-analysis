@@ -11,8 +11,8 @@
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Analysis Dashboard](./dashboard-preview.png)
-
+![Retail Sales Analysis Dashboard](https://github.com/faridah-portfolio/retail-analysis/blob/f8b0f6a5dce4de7891945a87f48bd13b61c61e87/faridah_retail%20sales%20data%205_14_2026%207_25_32%20PM.png)
+![excel]()
 ---
 
 ## 📌 Project Overview
