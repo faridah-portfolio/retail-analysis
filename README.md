@@ -12,8 +12,9 @@
 ## 📸 Dashboard Preview
 
 ![Retail Sales Analysis Dashboard](https://github.com/faridah-portfolio/retail-analysis/blob/f8b0f6a5dce4de7891945a87f48bd13b61c61e87/faridah_retail%20sales%20data%205_14_2026%207_25_32%20PM.png)
-![excel]()
+![excel](https://github.com/faridah-portfolio/retail-analysis/blob/1759867aaad31c9094dcf86701ac157075f5db2b/Retail_Sales_PowerBI%20-%20Excel%206_29_2026%202_05_13%20PM.png)
 ---
+
 
 ## 📌 Project Overview
 
@@ -120,6 +121,4 @@ Data Analyst · Power BI Developer · Business Intelligence Specialist
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. You are welcome to reference or adapt it for learning and portfolio purposes with attribution.
